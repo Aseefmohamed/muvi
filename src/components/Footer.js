@@ -28,7 +28,7 @@ export const Footer = () => {
               <h1>For Projects contact us </h1>
               <a href= "" onClick={()=>sendEmail()}><img src={navIcon2} alt="" /></a>
                 
-                <a href="https://api.whatsapp.com/send?phone=8015868478"><img src={navIcon3} alt="" /></a>
+                <a href="https://wa.me/qr/QCJBYYEFWPSZC1"><img src={navIcon3} alt="" /></a>
                 <a href="https://www.instagram.com/muviprojects?igsh=bWRkdGV2Z2VkYW1w"><img src={navIcon1} alt="" /></a>
 
             </div>
