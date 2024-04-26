@@ -36,7 +36,7 @@ export const NavBar = () => {
   function connectAndRedirect() {
     console.log('connect');
     // Redirect to WhatsApp
-    window.location.href = 'https://api.whatsapp.com/send?phone=8015868478';
+    window.location.href = 'https://wa.me/qr/QCJBYYEFWPSZC1';
   }
   function sendEmail() {
     // Change 'email@example.com' to the desired email address
